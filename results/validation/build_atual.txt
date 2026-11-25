@@ -1,0 +1,8 @@
+Starting >>> cg_interfaces
+Finished <<< cg_interfaces [15.0s]
+Starting >>> cg
+Starting >>> cg_navigation
+Finished <<< cg_navigation [7.27s]
+Finished <<< cg [8.28s]
+
+Summary: 3 packages finished [24.4s]

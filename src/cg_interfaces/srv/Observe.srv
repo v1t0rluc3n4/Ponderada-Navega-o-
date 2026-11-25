@@ -1,0 +1,5 @@
+# Local pose and eight adjacent cells only. No map or target position.
+---
+bool ready
+int32[2] robot_pos
+cg_interfaces/RobotSensors sensors

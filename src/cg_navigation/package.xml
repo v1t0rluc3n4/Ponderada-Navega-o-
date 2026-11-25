@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>cg_navigation</name>
+  <version>1.0.0</version>
+  <description>Autonomous navigation and local sensor mapping</description>
+  <maintainer email="vitor@example.com">Vitor Lopes Lucena</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>cg_interfaces</exec_depend>
+  <export><build_type>ament_python</build_type></export>
+</package>

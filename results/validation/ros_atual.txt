@@ -1,0 +1,101 @@
+[
+  {
+    "map": "1",
+    "execution": "ros2",
+    "part1_cost": 102,
+    "part2_cost": 102,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "2",
+    "execution": "ros2",
+    "part1_cost": 102,
+    "part2_cost": 102,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "3",
+    "execution": "ros2",
+    "part1_cost": 192,
+    "part2_cost": 192,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "4",
+    "execution": "ros2",
+    "part1_cost": 114,
+    "part2_cost": 114,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "5",
+    "execution": "ros2",
+    "part1_cost": 204,
+    "part2_cost": 204,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "6",
+    "execution": "ros2",
+    "part1_cost": 110,
+    "part2_cost": 110,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "7",
+    "execution": "ros2",
+    "part1_cost": 96,
+    "part2_cost": 96,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "8",
+    "execution": "ros2",
+    "part1_cost": 164,
+    "part2_cost": 164,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "9",
+    "execution": "ros2",
+    "part1_cost": 190,
+    "part2_cost": 190,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "10",
+    "execution": "ros2",
+    "part1_cost": 48,
+    "part2_cost": 48,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 780
+  },
+  {
+    "map": "test",
+    "execution": "ros2",
+    "part1_cost": 25,
+    "part2_cost": 25,
+    "same_route": true,
+    "matches_offline": true,
+    "exploration_steps": 1454
+  }
+]

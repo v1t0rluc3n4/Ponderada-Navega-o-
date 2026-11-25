@@ -1,0 +1,25 @@
+test_explicit_map_with_and_without_separator (test_cli.CliTests.test_explicit_map_with_and_without_separator) ... ok
+test_generate_with_separator (test_cli.CliTests.test_generate_with_separator) ... ok
+test_invalid_options_do_not_silently_select_random_map (test_cli.CliTests.test_invalid_options_do_not_silently_select_random_map) ... ok
+test_300_seeded_random_grids (test_navigation.NavigationTests.test_300_seeded_random_grids) ... ok
+test_adjacent_target (test_navigation.NavigationTests.test_adjacent_target) ... ok
+test_corridor (test_navigation.NavigationTests.test_corridor) ... ok
+test_cycle_and_ties (test_navigation.NavigationTests.test_cycle_and_ties) ... ok
+test_dead_ends (test_navigation.NavigationTests.test_dead_ends) ... ok
+test_diagonal_is_not_move (test_navigation.NavigationTests.test_diagonal_is_not_move) ... ok
+test_failed_motion_detected (test_navigation.NavigationTests.test_failed_motion_detected) ... ok
+test_invalid_maps (test_navigation.NavigationTests.test_invalid_maps) ... ok
+test_open_boundaries (test_navigation.NavigationTests.test_open_boundaries) ... ok
+test_start_equals_goal (test_navigation.NavigationTests.test_start_equals_goal) ... ok
+test_target_is_articulation (test_navigation.NavigationTests.test_target_is_articulation) ... ok
+test_unknown_is_not_free (test_navigation.NavigationTests.test_unknown_is_not_free) ... ok
+test_unreachable (test_navigation.NavigationTests.test_unreachable) ... ok
+test_wrong_route_origin (test_navigation.NavigationTests.test_wrong_route_origin) ... ok
+test_actual_robot_cannot_wrap_grid (test_simulator_robot.SimulatorRobotTests.test_actual_robot_cannot_wrap_grid) ... ok
+test_actual_robot_exploration_and_replay (test_simulator_robot.SimulatorRobotTests.test_actual_robot_exploration_and_replay) ... ok
+test_invalid_direction_does_not_modify_grid (test_simulator_robot.SimulatorRobotTests.test_invalid_direction_does_not_modify_grid) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.118s
+
+OK
